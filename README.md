@@ -1,3 +1,3 @@
-# React primitive Tailwind and framer motion Starter
+# React Stockphote self
 
-clone/download and install and start it
+[Live Demo](https://photo-stock-self.netlify.app)
